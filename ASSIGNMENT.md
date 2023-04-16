@@ -17,7 +17,9 @@ This language took the imperative _C_ language and added classes to it to provid
 
 ## Evolution and Continued Use
 
-Petar
+The development of C started out when Bjarne Stroustrup had problems dealing with complicated code. The program had only class features and his goal wasto add object oriented programming in C language in 1979. Language name was changed from C to C++. Bjarne Stroustrup added new features which included references, virtual functions, constants, type-safe freestore memory allocation, and single line comments with two forward slashes in 1983. 
+
+First edition of C++ programming was released in 1985. Between 1990 and 2010 bugs and glitches were fixed and versions of C++ were updating. The versionlabel name started out as C++98 and was finally updated to C++11. Between 2011 and 2019 new features were added such as lambda expressions, polymorphic lambas, delegating constructors, uniform initialization syntax, hexadecimal floating point literals, type deduction and decltype, and more. The latest version of C++ was finalized in February 2020 and approved in September 2020. The latest version of C++ was expected to released in 2021. C++ is still being used to this day and will continue to be used in the future.       
 
 ## Language Trade-off's
 
