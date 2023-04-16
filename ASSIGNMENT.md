@@ -29,7 +29,9 @@ Derrek
 
 C++ is showing strong signs of remaining a top choice language for the medium to longterm future, especially for applications that prioritize quick executing and
 low latency code (such as games and server software). The ISO task force that publishes C++ language specifications recently approved a C++20 standard and is
-already working on the next version, C++23.  Because of the large body of existing code and the prevalence of skilled programmers throughout the software engineering
+already working on the next version, C++23.  
+
+Because of the large body of existing code and the prevalence of skilled programmers throughout the software engineering
 workforce, C++ should continue to be a preferred choice for mainstream applications for years to come.
 
 ## Sources
