@@ -29,7 +29,14 @@ The language also come with many disadvantages. Pointers which provide efficency
 
 ## Conclusion
 
-Mike
+C++ is showing strong signs of remaining a top choice language for the medium to longterm future, especially for applications that prioritize quick executing and
+low latency code (such as games and server software). [3] The ISO task force that publishes C++ language specifications recently approved a C++20 standard and is
+already working on the next version, C++23.  
+
+Many valid criticisms of the language have been made by prominent figures in the computer science field (such as Linus Torvalds [4] and Donald Knuth [5]), mostly
+concerned with the lack of orthogonality and vast complexity of C++.  However, support for use of C++ continues to remain strong because of the large body of
+existing code and the prevalence of skilled programmers throughout the software engineering workforce, and C++ should continue to be a preferred choice for
+mainstream applications for years to come.  
 
 ## Sources
 
@@ -37,6 +44,9 @@ Mike
 
 [2] R. W. Sebesta, Concepts of Programming Languages. Addison-Wesley Longman, 2010.
 
+‌[3] Educative.io, "Learn C++ for 2022," 2021. Accessed: Apr. 16, 2023 [Online]. Available: https://www.educative.io/blog/learn-cpp-for-2022.
+
+[4] L. Torvalds, "Re: [RFC] Convert builin-mailinfo.c to use The Better String Library," lwn.net. Accessed: April 16, 2023 [Online]. Available: https://lwn.net/Articles/249460/.
 ‌
 
-‌
+[5] J. L. Vossen, "An Interview with Donald Knuth," Dr. Dobb's Journal, Nov. 30, 1999. Accessed: Apr. 16, 2023 [Online]. Available: https://www.drdobbs.com/architecture-and-design/an-interview-with-donald-knuth/228700500. 
