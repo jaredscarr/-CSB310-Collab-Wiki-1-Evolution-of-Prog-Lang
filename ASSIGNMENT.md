@@ -46,6 +46,6 @@ mainstream applications for years to come.
 
 ‌[3] Educative.io, "Learn C++ for 2022," 2021. Accessed: Apr. 16, 2023 [Online]. Available: https://www.educative.io/blog/learn-cpp-for-2022.
 
-[4] L. Torvalds, "Re: [RFC] Convert builin-mailinfo.c to use The Better String Library," lwn.net. Accessed: April 16, 2023 [Online]. Available: https://lwn.net/Articles/249460/
+[4] L. Torvalds, "Re: [RFC] Convert builin-mailinfo.c to use The Better String Library," lwn.net. Accessed: April 16, 2023 [Online]. Available: https://lwn.net/Articles/249460/.
 ‌
 [5] J. L. Vossen, "An Interview with Donald Knuth," Dr. Dobb's Journal, Nov. 30, 1999. Accessed: Apr. 16, 2023 [Online]. Available: https://www.drdobbs.com/architecture-and-design/an-interview-with-donald-knuth/228700500. 
