@@ -23,7 +23,9 @@ First edition of C++ programming was released in 1985. Between 1990 and 2010 bug
 
 ## Language Trade-off's
 
-Derrek
+C++ has a myriad of advantages that come with its use. For example, the language is portable which allows the user to create and run their program on one operating system and if there comes a need for it to be used in another operating system the program will run without any errors. The most important advantage of C++, is its usage of object oriented programming, a programming model that helps organize the design and data of a program. Additionally, the language provides the users control over the memory management or memory allocation. Although having control over the management of the memory can be a liability to a user, when it is utilized properly it can make a difference in the programs execution opposed to automatic memory allocation. C++ can work with both small and large scale data, which makes the use memory management as well as object oriented programming much more important.
+
+The language also come with many disadvantages. Pointers which provide efficency to the program run time, are a integral part to programming in C++, but is a difficult concept to understand and the misuse of it is detrimental to the program as it consumes a lot of memory. This issue can be amplified because of the user control over the memory allocation in the program, and lack of a garbage collector.
 
 ## Conclusion
 
