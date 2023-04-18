@@ -24,6 +24,10 @@ C++ is still being used to this day and can be found in many different business 
 
 There are tradeoffs to be made when selecting the C++ language, but as shown in the next section C++ is still going strong and will continue to be used well into the future.          
 
+## Timeline
+
+![image](https://user-images.githubusercontent.com/53946628/232848877-38ef301b-d550-46c0-9ab6-79761b2e9a4f.png)
+
 ## Language Trade-off's
 
 The most important advantage of C++ is the inclusion of the object oriented programming paradigm, a programming model that helps organize the design and data of a program. The Standard Library portion of the language is portable, which allows a program to run on different computer platforms like Windows, MacOS, and Linux. However, not all libraries within the ecosystem are cross-platform. This can make selecting the right library difficult for the project. Luckily in 2011, the Boost Organization recognized this issue and "provides free peer-reviewed portable C++ source libraries" to the C++ community [6].
@@ -39,10 +43,6 @@ Speed is one of the top reasons that C++ is selected for certain projects. It is
 C++ shows strong signs of remaining a top choice language for the medium to long term future, especially for applications that prioritize quick execution and low latency code (such as games and server software) [3]. The ISO task force that publishes C++ language specifications recently approved a C++20 standard and is already working on the next version, C++23.  
 
 Many valid criticisms of the language have been made by prominent figures in the computer science field (such as Linus Torvalds [4] and Donald Knuth [5]), mostly concerned with the lack of orthogonality and vast complexity of C++.  However, support for the use of C++ continues to remain strong because of the large body of existing code and the prevalence of skilled programmers throughout the software engineering workforce. C++ should continue to be a preferred choice for mainstream applications for years to come.  
-
-## Timeline
-
-![image](https://user-images.githubusercontent.com/53946628/232848877-38ef301b-d550-46c0-9ab6-79761b2e9a4f.png)
 
 
 ## Sources
